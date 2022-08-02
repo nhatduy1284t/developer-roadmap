@@ -1,6 +1,6 @@
 # Internet
 
-The Internet is a global network of computers connected to each other which communicate through a standardized set of protocols.
+The Internet is a global network of computers connected to each other which communicate through a **standardized set of protocols**.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.vox.com/2014/6/16/18076282/the-internet'>The Internet Explained</BadgeLink>
